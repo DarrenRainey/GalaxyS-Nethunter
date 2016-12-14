@@ -7,6 +7,15 @@ Yes this device is old but it still is a great little phone,has a active develop
 # Is this a ROM or Flashable File  ?
 I will start devloping a ROM using cyanogenmod to bring the device to a more recent version of Android rather than 2.3 (Gingerbread) and a full ROM will help minimize issues as it will have everything setup and with the right dependinces installed by default. I play to release a flashable version of the Nethunter parts only for those that want to  merge it with the current ROM.
 
+# Branches
+The ROM Files will be split into different branches relevenat to each every for Example :
+
+Master -  Information And Apps
+
+CM-10-WIP - Cyangongenmod Based ROM (Android 4.3 Jelly Bean) Experimental/BETA
+
+CM-10-RELEASE - Stable Cyanogenmod ROM Working with most features added
+
 # Plans
 Get a second phone to speed up development.
 
