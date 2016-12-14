@@ -13,3 +13,5 @@ Get a second phone to speed up development.
 Write custom kernel version for preformace and enabling features such as HID and Ethernet gadgets.
 
 Remove unnessary Android libarys and files to minimize secuirty issuses (Such as stagefright) and improve preformace or write replacements.
+
+Get HID working
