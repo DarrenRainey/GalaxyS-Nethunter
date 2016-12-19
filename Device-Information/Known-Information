@@ -1,0 +1,25 @@
+Battery : 1500MAH Li-on
+Battery Removable : Yes
+Bluetooth  : Yes
+Bluetooth Version : V3
+Bootloader : Proprietary
+CPU : 1.0GHZ ARM Cortex A8
+Camera : 5MP 720p Rear Facing
+Cyanogenmod Support : Yes
+Default OS : Android 2.3 (Gingerbread)
+Default Recovery : Android System Recovery <3e>
+Device : Samsung Galaxy S I9000
+FM Radio : Yes
+GPS : Yes
+GPU	: PowerVR SGX540
+Micro SD : Yes
+OTG By Default : No
+OTG Self Power : No requires external power such as powered USB hub
+OTG With Mod : Yes
+RAM : 512MB
+Released : June 2010
+Resolution : 480x800
+Storage : 8GB/16GB
+Supports Dual Boot By Default : No
+Wifi : Yes
+Wireless Chipset : BCM4329
