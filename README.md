@@ -12,9 +12,11 @@ The ROM Files will be split into different branches relevenat to each every for 
 
 Master -  Information And Apps
 
-CM-10-WIP - Cyangongenmod Based ROM (Android 4.3 Jelly Bean) Experimental/BETA
+Note Cyanogenmod Has Stopped Being Updated The Latest Version Of The Rom Using Cyanogenmod Will Be The Last On Before The Switch To LineageOS
 
-CM-10-RELEASE - Stable Cyanogenmod ROM Working with most features added
+~~CM-10-WIP - Cyangongenmod Based ROM (Android 4.3 Jelly Bean) Experimental/BETA
+
+~~CM-10-RELEASE - Stable Cyanogenmod ROM Working with most features adde
 
 # Plans
 Get a second phone to speed up development.
